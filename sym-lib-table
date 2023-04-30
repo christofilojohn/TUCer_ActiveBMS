@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Battery with Active BMS-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Battery with Active BMS-altium-import.kicad_sym")(options "")(descr ""))
+)
